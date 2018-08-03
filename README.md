@@ -9,7 +9,7 @@ This repository contains the programming style guides used by PYRO Robotics.
 
 ## Contents
 * Robot Programming
-  * [General Guidelines for Clean Code](docs/clean_code_guide.md)
+  * [General Guidelines for Clean Code](docs/Clean_Code_Guide.md)
 * Web Development and Programming
   * [Git / GitHub](docs/GitHub_Style_Guide.md)
 
