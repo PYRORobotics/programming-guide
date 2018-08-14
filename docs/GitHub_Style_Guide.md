@@ -2,17 +2,17 @@
 
 ## File Naming Conventions
 
-### Folders
+#### Folders
 Folders in a Git repository should use **Mixed_Case_With_Underscores** format.
 
 *Example:* The folder **Robot_1** in PYRORobotics/vexu-2018-2019/Robot_1
 
 ---
-### General Files
+#### General Files
 Standard files should use the recommendations found in [ASU's File Naming and Versioning guide](https://researchadmin.asu.edu/dmp/file-naming-and-versioning).
 
 ---
-### Repositories
+#### Repositories
 As per [this article](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md#follow-conventions), PYRO names repositories as descriptive (but brief) and uses delimiter-separated words, as in **lisp-case** / **spinal-case** / **dash-case**.
 
 *Example:* PYRORobotics/**style-guide**
@@ -22,22 +22,25 @@ If PYRO expands to multiple teams, repositories should be named such that an ide
 *Example:* **PYRORobotics/vexu-20xx-20xx-team-1**
 
 ---
-### This Style Guide
+#### This Style Guide
 For PYRO Robotics Programming Style Guide entries, files should be written in Markdown format (**.md**) and named in **Mixed_Case_With_Underscores**. Visit [this article](https://guides.github.com/features/mastering-markdown/) to learn more about the Markdown format. Also, here is a [visual Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 *Example:* **GitHub_Style_Guide.md**
 
+<br>
 
 ## Organization (File Path)
 
-### Repositories
+#### Repositories
 All PYRO VEXU robot code is located in specific repositories labeled by year, as in: **PYRORobotics/vexu-20xx-20xx**. Should multiple robots need be built in one year, each robot should have its own folder in the main directory of the year's repository.
 
 *Example:* **PYRORobotics/vexu-2018-2019/Robot_1**
 
 ---
-### This Style Guide
+#### This Style Guide
 All PYRO Robotics Programming Style Guide entries are located under **/style-guide/docs/**.
+
+<br>
 
 ## Commits
 Each commit contains two text fields: a summary and a description.
