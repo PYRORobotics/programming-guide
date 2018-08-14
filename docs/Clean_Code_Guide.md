@@ -21,11 +21,15 @@ Comments are incredibly important, but are also easily misused. Don't write a co
 * Proper indentation is key! Try to allign code such that "child" lines of code don't overlap with their "parent" lines' allignments.
 
 ## 3. Useful Naming: Short and Sweet
+* Try to name variables, classes, functions, etc., in a concise but direct manner.
+
+* The purpose of naming is facilitate communication between the author and other authors or readers by giving the object meaning.
+
+* Use comments whenever the name doesn't absolutely convey the object's meaning or use.
 
 ## Example:
-```C++
 Don't Do:
-
+```C++
 /*
  *  poorlyWrittenCode.cpp
  *
@@ -94,5 +98,56 @@ int main()
     return 0;   // Exit the program with code 0
 }
 
+// End of program
+```
+<br>
 
+Do:
+```C++
+/*
+ *  Author: Brandon Rice
+ *  Creation Date: 8-3-2018
+ *  Use: To show how reducing noize can reduce confusion
+ *  Copyright (c) 2018
+ */
+ 
+#include <iostream>
+using namespace std;
+
+const int applesPerPie = 5; // From research
+
+class Tree
+{
+    public:
+        int apples;         // Number of apples on tree
+        
+    Tree()
+    {
+        apples = 20;
+    }
+};
+
+
+/* 
+ * Calculates how many apple pies can be made from picking the apples on the tree
+ */
+int calcApplePies(int applesAvailable) {
+    
+    int numPies = applesAvailable / applesPerPie;
+    
+    return numPies;
+}
+
+
+int main() 
+{
+    Tree appleTree;
+    int pies;               // Number of pies able to make
+    
+    pies = calcApplePies(appleTree.apples);
+    
+    cout << "I can make " << pies << " pies." << endl;
+    
+    return 0;
+}
 ```
