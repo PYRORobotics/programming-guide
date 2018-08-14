@@ -1,7 +1,7 @@
 # The Official PYRO Robotics Programming Guide
 
 <p align="center"> 
-<a href="#"><img src="https://rrr.engineering.asu.edu/wp-content/uploads/2017/08/PYRO.png" width="50%" height="50%"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/README.md#the-official-pyro-robotics-programming-guide"><img src="https://rrr.engineering.asu.edu/wp-content/uploads/2017/08/PYRO.png" width="50%" height="50%"></a>
 </p>
 
 ## Summary
