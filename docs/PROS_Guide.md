@@ -29,7 +29,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image9.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image9.png" width="400"></a>
 </p>
 <br>
 
@@ -38,7 +38,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image7.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image7.png" width="400"></a>
 </p>
 <br>
 
@@ -46,7 +46,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image10.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image10.png" width="400"></a>
 </p>
 <br>
 
@@ -56,7 +56,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image6.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image6.png" width="400"></a>
 </p>
 <br>
 
@@ -64,7 +64,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image8.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image8.png" width="400"></a>
 </p>
 <br>
 
@@ -72,7 +72,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image5.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image5.png" width="400"></a>
 </p>
 <br>
 
@@ -85,7 +85,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image3.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#additional-steps"><img src="/images/PROS_GUIDE/image3.png" width="400"></a>
 </p>
 <br>
 
@@ -93,7 +93,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image4.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#additional-steps"><img src="/images/PROS_GUIDE/image4.png" width="400"></a>
 </p>
 <br>
 
@@ -101,7 +101,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 <br>
 <p align="center"> 
-<a href=#><img src="/images/PROS_GUIDE/image1.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#additional-steps"><img src="/images/PROS_GUIDE/image1.png" width="400"></a>
 </p>
 <br>
 
