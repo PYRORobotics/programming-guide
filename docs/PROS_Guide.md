@@ -107,5 +107,7 @@ Note: PROS 3 will not be publicly released until August 2018.
 
 ## Legacy: PROS 2 (VEX Cortex) for OS-X or Linux:		(As of 7/17/2018)
 Follow the official tutorials under **Getting Started / Installing PROS** listed in the official documentation linked below.
+
 <br>
+
 For more details, visit PROS’s official documentation: https://pros.cs.purdue.edu/cortex/getting-started/index.html#installing-pros
