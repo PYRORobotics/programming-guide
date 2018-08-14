@@ -4,7 +4,7 @@
 
 ***Style is likely the most subjective feature of programming, even writing in general, and as such, any guide on this topic should be taken with a grain of salt. These suggestions are personallized to me (@bjrice13) such that I write code meaningful to me.***
 
-***With that in mide, everyone should adopt their own style best fit for their own personal use, meaning everyone's styles will vary.***
+***With that in mind, everyone should adopt their own style best fit for their own personal use, meaning everyone's styles will vary.***
 
 *Several of these suggestions have been adopted from [this](https://youtu.be/ZsHMHukIlJY) very polarizing video.*
 
@@ -106,7 +106,7 @@ Do:
 ```C++
 /*
  *  Author: Brandon Rice
- *  Creation Date: 8-3-2018
+ *  Creation Date: 8-14-2018
  *  Use: To show how reducing noize can reduce confusion
  *  Copyright (c) 2018
  */
