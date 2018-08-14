@@ -24,3 +24,88 @@ Note: PROS 3 will not be publicly released until August 2018.
 <br>
 
 ## How to set up PROS 2 (VEX Cortex) for Windows:			(As of 7/17/2018)
+1. Go to https://pros.cs.purdue.edu/.
+2. Navigate down to the section titled “DOWNLOAD,” as shown below.
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image9.png" width="400"></a>
+</p>
+<br>
+
+3. Click on the “DOWNLOAD” button.
+4. Run **pros-win.exe** when the program is done downloading. *If using Google Chrome, the download should appear in the bottom-left corner, as shown below.*
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image7.png" width="400"></a>
+</p>
+<br>
+
+5. Wait for the installer to finish launching, as shown below. Choose an option for how many users to install PROS for. The default is “Everybody (all users)”, but “Only for me (*username*)” can be chosen to save storage space. When satisfied with your selection, click next.
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image10.png" width="400"></a>
+</p>
+<br>
+
+6. Choose which features you would like to install, as shown below. “PROS Editor” and “llvm” are necessary. In addition, **to deploy code to the robot, a programming cable driver is needed.** Select the correct programming cable driver according to your computer’s operating system. 32-bit operating systems must use the 32-bit programming cable driver. **If you are unsure of which driver to install, choose the 32-bit driver.**
+
+    If you would like to change where PROS is installed, edit the directory in the “Installation Folder” tab.
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image6.png" width="400"></a>
+</p>
+<br>
+
+7. Agree to the licensing of PROS and click “Accept and Install” in the bottom-right corner, as shown below.
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image8.png" width="400"></a>
+</p>
+<br>
+
+8. Wait while the installer installs PROS, as shown below. Do not close the installer in this step, as you will have to run the installer again to install PROS. Depending on your computer, this step may take some time.
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image5.png" width="400"></a>
+</p>
+<br>
+
+9. Click “Finish” to close the installer. PROS has been successfully installed, as shown below.
+
+#### Additional Steps
+*Creating a desktop shortcut:*
+
+1. Search Windows for **PROS**. This can be done by selecting the Windows icon on the taskbar (or typing the Windows key) and typing **PROS**. Windows should find “PROS Editor x64/x32 Desktop app,” as shown below.
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image3.png" width="400"></a>
+</p>
+<br>
+
+2. Right click on “PROS Editor x64/x32 Desktop app” and select “Open file location,” as shown below.
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image4.png" width="400"></a>
+</p>
+<br>
+
+3. In the Windows Explorer window that popped-up, right click “PROS Editor x32/x64,” hover over “Send to” to bring up options, and click “Desktop (create shortcut).”
+
+<br>
+<p align="center"> 
+<a href=#><img src="/images/PROS_GUIDE/image1.png" width="400"></a>
+</p>
+<br>
+
+## Legacy: PROS 2 (VEX Cortex) for OS-X or Linux:		(As of 7/17/2018)
+Follow the official tutorials under **Getting Started / Installing PROS** listed in the official documentation linked below.
+<br>
+For more details, visit PROS’s official documentation: https://pros.cs.purdue.edu/cortex/getting-started/index.html#installing-pros
