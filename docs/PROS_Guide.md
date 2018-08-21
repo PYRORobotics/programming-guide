@@ -8,7 +8,7 @@ In 2018, VEX Robotics released the **V5 Control System**. A feature of V5 is the
 
 >*PROS (Purdue Robotics Operating System) was created and is maintained by the Purdue ACM SIGBots.*
  
-It should be noted that **PROS is an operating system** which includes the VEX libraries and functionality to deploy code to the robot. The IDE that is used by PROS is called the **PROS Editor**, a modified version of **Atom**, a text-based editor. A useful feature in using Atom with PROS is that the programmer can download and use any of the many custom plugins built for Atom, streamlining the process of programming.
+It should be noted that **PROS is an operating system** which includes the VEX libraries and functionality to deploy code to the robot. The IDE that is used by PROS is called the **PROS Editor**, a modified version of **Atom**, a text-based editor. A useful feature in using Atom with PROS is that the programmer can download and use any of the many [custom plugins](https://atom.io/packages) built for Atom, streamlining the process of programming.
 
 **NOTE: Atom is installed automatically by the PROS installer.** You do not need to install Atom separately.
  
