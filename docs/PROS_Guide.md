@@ -36,7 +36,7 @@ Prior to the release of the V5 Control System, VEX robots used the Cortex microc
 
 <br>
 <p align="center"> 
-<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image10.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-3-vex-v5-for-windowsas-of-942018"><img src="/images/PROS_GUIDE/image10.png" width="400"></a>
 </p>
 <br>
 
@@ -46,7 +46,7 @@ Prior to the release of the V5 Control System, VEX robots used the Cortex microc
 
 <br>
 <p align="center"> 
-<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image6.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-3-vex-v5-for-windowsas-of-942018"><img src="/images/PROS_GUIDE/image6.png" width="400"></a>
 </p>
 <br>
 
@@ -54,7 +54,7 @@ Prior to the release of the V5 Control System, VEX robots used the Cortex microc
 
 <br>
 <p align="center"> 
-<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image8.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-3-vex-v5-for-windowsas-of-942018"><img src="/images/PROS_GUIDE/image8.png" width="400"></a>
 </p>
 <br>
 
@@ -62,7 +62,7 @@ Prior to the release of the V5 Control System, VEX robots used the Cortex microc
 
 <br>
 <p align="center"> 
-<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image5.png" width="400"></a>
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-3-vex-v5-for-windowsas-of-942018"><img src="/images/PROS_GUIDE/image5.png" width="400"></a>
 </p>
 <br>
 
