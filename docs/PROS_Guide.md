@@ -23,8 +23,50 @@ Prior to the release of the V5 Control System, VEX robots used the Cortex microc
 
 <br>
 
-## How to set up PROS 3 (VEX V5) for Windows:
-Note: PROS 3 will not be publicly released until August 2018.
+## How to set up PROS 3 (VEX V5) for Windows:			(As of 9/4/2018)
+1. Go to https://github.com/purduesigbots/pros-cli3/releases/tag/3.1.0.
+
+2. Click on the link corresponding to your operating system to download the installer.
+
+3. When the download finishes, run pros-windows-3.1.0.0-XXbit.exe.
+
+<br>
+
+4. Wait for the installer to finish launching, as shown below. Choose an option for how many users to install PROS for. The default is “Everybody (all users)”, but “Only for me (*username*)” can be chosen to save storage space. When satisfied with your selection, click next.
+
+<br>
+<p align="center"> 
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image10.png" width="400"></a>
+</p>
+<br>
+
+5. Choose which features you would like to install, as shown below. “PROS Editor” and “llvm” are necessary. In addition, **to deploy code to the robot, a programming cable driver is needed.** Select the correct programming cable driver according to your computer’s operating system. 32-bit operating systems must use the 32-bit programming cable driver. **If you are unsure of which driver to install, choose the 32-bit driver.**
+
+    If you would like to change where PROS is installed, edit the directory in the “Installation Folder” tab.
+
+<br>
+<p align="center"> 
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image6.png" width="400"></a>
+</p>
+<br>
+
+6. Agree to the licensing of PROS and click “Accept and Install” in the bottom-right corner, as shown below.
+
+<br>
+<p align="center"> 
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image8.png" width="400"></a>
+</p>
+<br>
+
+7. Wait while the installer installs PROS, as shown below. Do not close the installer in this step, as you will have to run the installer again to install PROS. Depending on your computer, this step may take some time.
+
+<br>
+<p align="center"> 
+<a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/PROS_Guide.md#how-to-set-up-pros-2-vex-cortex-for-windowsas-of-7172018"><img src="/images/PROS_GUIDE/image5.png" width="400"></a>
+</p>
+<br>
+
+8. Click “Finish” to close the installer. PROS has been successfully installed, as shown below.
 
 <br>
 
