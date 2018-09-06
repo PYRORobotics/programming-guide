@@ -2,6 +2,7 @@
 
 ## Table of Contents
 1. **Introduction and Installation of PROS**
+2. [Setting Up the PROS Editor](PROS_Guide_2.md)
 2. [Introduction to C](page_comming_soon)
 3. [Introduction to Object Oriented Programming and C++](page_comming_soon)
 
@@ -163,6 +164,6 @@ For more details, visit PROS’s official documentation: https://pros.cs.purdue.
 
 <br>
 <p align="right">
-<a href="page_comming_soon"> <b>Next Page: Introduction to C </b></a>
+<a href="PROS_Guide_2.md"> <b>Next Page: Setting Up the PROS Editor </b></a>
 </p>
 <br>
