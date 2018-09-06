@@ -30,6 +30,13 @@ git config --global user.name "Your Name"
 replacing *Your Name* with your first and last name.
 
 <br>
+
+## 2. Creating a GitHub Account
+To create a GitHub account, go to https://github.com/join and follow the prompts.
+
+For more help, visit https://www.wikihow.com/Create-an-Account-on-GitHub.
+
+<br>
 <p align="right">
 <a href="https://github.com/PYRORobotics/programming-guide/blob/master/docs/GitHub_Style_Guide.md"> <b>Next Page: GitHub Style Guide </b></a>
 </p>
