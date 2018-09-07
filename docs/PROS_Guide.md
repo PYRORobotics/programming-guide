@@ -1,3 +1,5 @@
+<sub>**Introduction and Installation of PROS** | [Setting Up the PROS Editor](PROS_Guide_2.md) | Introduction to C | Introduction to Object Oriented Programming and C++
+
 # PYRO Robotics PROS Guide
 
 ## Table of Contents
