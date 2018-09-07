@@ -1,3 +1,5 @@
+<sub>[Introduction and Installation of PROS](PROS_Guide.md) | **Setting Up the PROS Editor** | Introduction to C | Introduction to Object Oriented Programming and C++
+
 # PYRO Robotics PROS Guide - Setting up the PROS Editor
 
 *This guide assumes that you have followed the instructions listed in the [Git / GitHub Usage Guide](docs/Git_GitHub_Usage_Guide.md) and have successfully installed Git and have a GitHub account.*
