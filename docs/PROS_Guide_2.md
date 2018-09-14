@@ -2,7 +2,7 @@
 
 # PYRO Robotics PROS Guide - Setting up the PROS Editor
 
-*This guide assumes that you have followed the instructions listed in the [Git / GitHub Usage Guide](docs/Git_GitHub_Usage_Guide.md) and have successfully installed Git and have a GitHub account.*
+*This guide assumes that you have followed the instructions listed in the [Git / GitHub Usage Guide](https://github.com/PYRORobotics/programming-guide/blob/master/docs/Git_GitHub_Usage_Guide.md) and have successfully installed Git and have a GitHub account.*
 
 ## 1. Making the PROS Editor Easier to Navigate
 ### Toggle *Tree View*
