@@ -27,11 +27,11 @@ Prior to the release of the V5 Control System, VEX robots used the Cortex microc
 <br>
 
 ## How to set up PROS 3 (VEX V5) for Windows:			(As of 9/4/2018)
-1. Go to https://github.com/purduesigbots/pros-cli3/releases/tag/3.1.0.
+1. Go to https://github.com/purduesigbots/pros-cli3/releases.
 
 2. Click on the link corresponding to your operating system to download the installer.
 
-3. When the download finishes, run pros-windows-3.1.0.0-XXbit.exe.
+3. When the download finishes, run pros-windows-3.1.2.0-XXbit.exe.
 
 <br>
 
