@@ -73,7 +73,8 @@ Prior to the release of the V5 Control System, VEX robots used the Cortex microc
 
 <br>
 
-## How to set up PROS 2 (VEX Cortex) for Windows:			(As of 7/17/2018)
+## Legacy: How to set up PROS 2 (VEX Cortex) for Windows:			(As of 7/17/2018)
+*It is recommended that you install PROS 3 instead, as it includes support for V5 AND the Cortex.*
 1. Go to https://pros.cs.purdue.edu/.
 2. Navigate down to the section titled “DOWNLOAD,” as shown below.
 
