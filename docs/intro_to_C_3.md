@@ -122,6 +122,7 @@ void myMotorFunction(Motor motor)
 .
 .
 
+// In another function:
 Motor motor1(1);
 for(int i = 0; i < 10; i++)
 {
