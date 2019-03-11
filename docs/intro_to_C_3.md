@@ -78,3 +78,55 @@ void updatePosition()
 }
 ```
 Notice how updatePosition() doesn't declare any parameters, as they are optional.
+
+Getting back to our motor example, we can write a function to hold the base code that is repeated each time. We can then call the function 10 times over to achieve the desired result.
+```C
+void myMotorFunction(Motor motor)
+{
+  motor = 127;
+  delay(2000);
+  motor = 0;
+  delay(2000);
+}
+
+.
+.
+.
+
+// In another function:
+Motor motor1(1);
+myMotorFunction(motor1); // 1st time
+myMotorFunction(motor1); // 2nd time
+myMotorFunction(motor1); // 3rd time
+myMotorFunction(motor1); // 4th time
+myMotorFunction(motor1); // 5th time
+myMotorFunction(motor1); // 6th time
+myMotorFunction(motor1); // 7th time
+myMotorFunction(motor1); // 8th time
+myMotorFunction(motor1); // 9th time
+myMotorFunction(motor1); // 10th time
+```
+
+We can further simplify this code by placing the myMotorFunction() calls in a for loop:
+
+```C
+void myMotorFunction(Motor motor)
+{
+  motor = 127;
+  delay(2000);
+  motor = 0;
+  delay(2000);
+}
+
+.
+.
+.
+
+Motor motor1(1);
+for(int i = 0; i < 10; i++)
+{
+  myMotorFunction(motor1);
+}
+```
+
+What originally took 40 lines of code was compressed into 12 lines of code, *a 70% reduction!*
