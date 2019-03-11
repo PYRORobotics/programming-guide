@@ -4,7 +4,7 @@
 Written for the 2019-2020 VEX competition season by PYRO Robotics Programming Co-lead Brandon Rice.
 
 ## Audience and Scope
-This tutorial and its C++ counterpart are meant to help guide someone who has never programmed before on the quest of programming a (VEX) robot. *I put VEX in parentheses as this tutorial will assume that the reader is programming a VEX robot using the V5 system and the PROS Editor. However, I feel it is necessary that I note that many of the topics covered here are general programming (or at least C/C++) concepts that **do transfer to other projects, whether it be programming other robotic systems or even applications such as video games.** *
+This tutorial and its C++ counterpart are meant to help guide someone who has never programmed before on the quest of programming a (VEX) robot. _I put VEX in parentheses as this tutorial will assume that the reader is programming a VEX robot using the V5 system and the PROS Editor. However, I feel it is necessary that I note that many of the topics covered here are general programming (or at least C/C++) concepts that **do transfer to other projects, whether it be programming other robotic systems or even applications such as video games.**_
 
 ## Summary
 This guide is broken into two parts. Part 1 (this page) covers the basics of the C programming language and how it can be used in PROS to program VEX robots. Part 2 covers what is C++ (object-oriented programming) and how to integrate its functionality.
